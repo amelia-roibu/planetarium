@@ -1,16 +1,18 @@
-# React + Vite
+# 🌌 Explorator Web Spațio-Temporal și Etnoastronomic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Aplicație Web 3D interactivă pentru vizualizarea dinamicii stelare, etnoastronomie comparată și asistență geospațială pentru observații astronomice.**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Despre Proiect
 
-## React Compiler
+Proiectul reprezintă o lucrare de licență dezvoltată în cadrul **Facultății de Matematică și Informatică (FMI), Universitatea din București**. Aplicația aduce o abordare modernă asupra planetariilor digitale, combinând dinamica reală a stelelor cu perspectivele culturale istorice și utilitatea practică în teren.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🌟 Inovații Cheie
+* **⌛ Dimensiunea Temporală (Time-Machine):** Derularea timpului cu mii de ani în trecut sau viitor și calcularea deformării constelațiilor pe baza mișcării proprii (*Proper Motion*) a stelelor.
+* **📜 Dimensiunea Culturală (Etnoastronomie):** Comutarea dinamică a constelațiilor între diferite culturi (greco-romană, incașă, Navajo, românească veche) prin reconfigurarea grafurilor stelare.
+* **🛰️ Asistent Geospațial (GPS & Field-Astronomy):** Evaluarea în timp real a poluării luminoase locale și a condițiilor meteo, oferind recomandări de echipamente optice (ochiul liber, binoclu, telescoape).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Surse de Date:** ESA Gaia Archive / Hipparcos, Stellarium Sky Cultures, OpenWeatherMap API
